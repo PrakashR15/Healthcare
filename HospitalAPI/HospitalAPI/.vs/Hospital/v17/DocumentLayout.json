@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_Training\\Capestone\\HospitalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\service\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:service\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\controllers\\healthrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:controllers\\healthrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\service\\prescriptionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:service\\prescriptionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\service\\healthrecordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:service\\healthrecordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\interface\\iprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:interface\\iprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\interface\\ihealthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:interface\\ihealthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\interface\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:interface\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\model\\prescriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:model\\prescriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\model\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:model\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|c:\\_training\\capestone\\hospitalapi\\model\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00E733C-8784-44F3-92E6-70C592D8C5DE}|HospitalAPI.csproj|solutionrelative:model\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Service\\UserServices.cs",
+              "RelativeDocumentMoniker": "Service\\UserServices.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Service\\UserServices.cs",
+              "RelativeToolTip": "Service\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:53:43.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Interface\\IUser.cs",
+              "RelativeDocumentMoniker": "Interface\\IUser.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Interface\\IUser.cs",
+              "RelativeToolTip": "Interface\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:51:14.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "Model\\AppUser.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\AppUser.cs",
+              "RelativeToolTip": "Model\\AppUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:38:25.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:40:41.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:49:13.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "Model\\Users.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\Users.cs",
+              "RelativeToolTip": "Model\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:48:21.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthRecordController.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Controllers\\HealthRecordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HealthRecordController.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Controllers\\HealthRecordController.cs",
+              "RelativeToolTip": "Controllers\\HealthRecordController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:43:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthRecordServices.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Service\\HealthRecordServices.cs",
+              "RelativeDocumentMoniker": "Service\\HealthRecordServices.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Service\\HealthRecordServices.cs",
+              "RelativeToolTip": "Service\\HealthRecordServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:44:29.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrescriptionServices.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Service\\PrescriptionServices.cs",
+              "RelativeDocumentMoniker": "Service\\PrescriptionServices.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Service\\PrescriptionServices.cs",
+              "RelativeToolTip": "Service\\PrescriptionServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:44:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:25:11.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPrescription.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Interface\\IPrescription.cs",
+              "RelativeDocumentMoniker": "Interface\\IPrescription.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Interface\\IPrescription.cs",
+              "RelativeToolTip": "Interface\\IPrescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:51:04.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IHealthRecord.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Interface\\IHealthRecord.cs",
+              "RelativeDocumentMoniker": "Interface\\IHealthRecord.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Interface\\IHealthRecord.cs",
+              "RelativeToolTip": "Interface\\IHealthRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:50:55.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Prescriptions.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\Prescriptions.cs",
+              "RelativeDocumentMoniker": "Model\\Prescriptions.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\Prescriptions.cs",
+              "RelativeToolTip": "Model\\Prescriptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:48:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAppointment.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Interface\\IAppointment.cs",
+              "RelativeDocumentMoniker": "Interface\\IAppointment.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Interface\\IAppointment.cs",
+              "RelativeToolTip": "Interface\\IAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:48:27.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HealthRecord.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\HealthRecord.cs",
+              "RelativeDocumentMoniker": "Model\\HealthRecord.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\HealthRecord.cs",
+              "RelativeToolTip": "Model\\HealthRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:48:01.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Appointments.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\Appointments.cs",
+              "RelativeDocumentMoniker": "Model\\Appointments.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Model\\Appointments.cs",
+              "RelativeToolTip": "Model\\Appointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:47:48.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "C:\\_Training\\Capestone\\HospitalAPI\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrescriptionController.cs",
+              "ToolTip": "C:\\_Training\\Capestone\\HospitalAPI\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "Controllers\\PrescriptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:43:06.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

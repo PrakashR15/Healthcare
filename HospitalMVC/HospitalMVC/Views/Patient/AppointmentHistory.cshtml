@@ -1,0 +1,43 @@
+﻿@model List<HospitalMVC.Models.AppointmentDto>
+
+<h2 class="my-4 text-center">Appointment History</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+else if (!Model.Any())
+{
+    <div class="text-muted text-center">No appointments found.</div>
+}
+else
+{
+    <table class="table table-bordered table-striped text-center" style="border-radius: 8px; overflow: hidden;">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Date</th>
+                <th scope="col">Doctor</th>
+                <th scope="col">Reason</th>
+                <th scope="col">Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var appointment in Model)
+            {
+                <tr>
+                    <td>@appointment.Date.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>@appointment.DoctorName</td>
+                    <td>@appointment.Reason</td>
+                    <td>
+                        <span class="badge
+                            @(appointment.Status.ToLower() == "completed" ? "bg-success" :
+                              appointment.Status.ToLower() == "pending" ? "bg-warning text-dark" :
+                              appointment.Status.ToLower() == "cancelled" ? "bg-danger" : "bg-secondary")">
+                            @appointment.Status
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

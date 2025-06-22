@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(135deg, #33d5c7 0%, #c9f0e7 100%);
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  color: #e7e9e9;
+}
+
+.container {
+  max-width: 500px;
+}
+
+.card {
+  background-color: rgb(17, 161, 127);
+  border-radius: 1rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+}
+
